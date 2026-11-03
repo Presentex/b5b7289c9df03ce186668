@@ -1,2 +1,5 @@
 User-agent: *
+Allow: /feed.xml
+Allow: /episodes/
+Allow: /artwork-v2.jpg
 Disallow: /
